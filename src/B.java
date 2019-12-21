@@ -1,7 +1,7 @@
 public class B {
 
     public void ten(){
-        //dpgb
+        //merge conflict
         System.out.println("11124");
         System.out.println("1234123");
         System.out.println("11111");
