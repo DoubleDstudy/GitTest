@@ -1,7 +1,7 @@
 public class B {
 
     public void ten(){
-        //이것은 테스트1입니다.
+        //ssd
         System.out.println("11124");
         System.out.println("1234123");
         System.out.println("11111");
