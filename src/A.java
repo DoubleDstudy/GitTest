@@ -1,6 +1,7 @@
 public class A {
 
     public void ten(){
+        //merge conflict
         System.out.println("good");
         System.out.println("good");
         System.out.println("good");
