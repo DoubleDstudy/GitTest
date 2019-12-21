@@ -4,7 +4,9 @@ public class A {
         System.out.println("good");
         System.out.println("good");
         System.out.println("good");
+        System.out.println("good2");
         System.out.println("good");
+        System.out.println("good2");
         System.out.println("great");
         System.out.println("good");
         System.out.println("good");
