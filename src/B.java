@@ -1,7 +1,7 @@
 public class B {
 
     public void ten(){
-        //ssd
+        //dpgb
         System.out.println("11124");
         System.out.println("1234123");
         System.out.println("11111");
