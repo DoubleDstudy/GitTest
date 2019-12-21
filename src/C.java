@@ -1,6 +1,8 @@
 public class C {
 
-    public void hahahah(){}
+    public void hahahah(){
+        //fetch test
+    }
 
 
 }
